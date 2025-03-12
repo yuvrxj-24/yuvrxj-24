@@ -52,7 +52,7 @@ If you're curious, passionate, and always ready to grow—**we’re already on t
 
 ## 📫 Connect With Me
 🔗 **LinkedIn:** [Yuvraaj Kumar Singh](http://www.linkedin.com/in/yuvraaj-kumar-singh-857a5224b)  
-📧 **Email:** yuvraaj.singh@example.com  
+📧 **Email:** [yuvraaj.ks1@gmail.com](mailto:yuvraaj.ks1@gmail.com)  
 🐦 **Twitter (X):** [@Yuvrxxj_9](https://x.com/Yuvrxxj_9)  
 💻 **LeetCode:** [Yuvraaj Kumar Singh](https://leetcode.com/u/yuvraaj666/)  
 
